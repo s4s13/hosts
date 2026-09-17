@@ -6,7 +6,8 @@
 
 ・ブロックリスト  
 https://raw.githubusercontent.com/s4s13/hosts/refs/heads/main/hosts.txt  
-  
+・ホワイトリスト  
+https://raw.githubusercontent.com/s4s13/hosts/refs/heads/main/allow.txt  
   
 作成者の使用環境  
 ・Adaway  
