@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/s4s13/hosts/refs/heads/main/allow.txt
   
 作成者の使用環境  
 ・Adaway  
+IPv6サポートオン、IPv4のリダイレクト先「0.0.0.0」  
 ・Android Chrome  
 Ad-Shield導入サイトはChromeのサイト別設定でJavaScriptを拒否にしております。  
 例：blog.livedoor.com    
