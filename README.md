@@ -6,7 +6,8 @@
   
 作成者の使用環境  
 ・Android Chrome  
-Ad-Shield導入サイトはChromeのサイト別設定でJavaScriptを拒否にしております。例：blog.livedoor.com  
+Ad-Shield導入サイトはChromeのサイト別設定でJavaScriptを拒否にしております。  
+例：blog.livedoor.com    
 ・U-フレットなどのJavaScriptをオフにするとまともに閲覧できないサイトを閲覧する際にBraveブラウザを利用  
   
 作成者の併用しているソース  
