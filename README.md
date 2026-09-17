@@ -5,6 +5,7 @@
 自己責任でご自由に使用してください。  
   
 作成者の使用環境  
+・Adaway  
 ・Android Chrome  
 Ad-Shield導入サイトはChromeのサイト別設定でJavaScriptを拒否にしております。  
 例：blog.livedoor.com    
