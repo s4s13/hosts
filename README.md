@@ -4,12 +4,13 @@
 各所のソースでブロックしきれない部分を補うためのものなので単体では使い物になりません。  
 自己責任でご自由に使用してください。  
   
-当方が使用させていただいているNMTV Web様のhostsをAdawayでそのまま読み込めるようファイルを成形したものも置いていますので必要でしたらどうぞ。  
-  
 ・ブロックリスト  
 https://raw.githubusercontent.com/s4s13/hosts/refs/heads/main/hosts.txt  
 ・ホワイトリスト  
 https://raw.githubusercontent.com/s4s13/hosts/refs/heads/main/allow.txt  
+  
+当方が使用させていただいているNMTV Web様のhostsをAdawayでそのまま読み込めるようファイルを成形したものも置いていますので必要でしたらどうぞ。  
+https://raw.githubusercontent.com/s4s13/hosts/refs/heads/main/NMTV%20hosts  
   
 作成者の使用環境  
 ・Adaway  
