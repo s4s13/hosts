@@ -17,7 +17,6 @@ https://raw.githubusercontent.com/s4s13/hosts/refs/heads/main/NMTV%20hosts
 IPv6サポートオン、IPv4のリダイレクト先「0.0.0.0」  
 ・Android Chrome  
 Ad-Shield導入サイトはChromeのサイト別設定でJavaScriptを拒否にしております。  
-例：blog.livedoor.com    
 ・U-フレットなどのJavaScriptをオフにするとまともに閲覧できないサイトを閲覧する際にBraveブラウザを利用  
   
 作成者の併用しているソース  
