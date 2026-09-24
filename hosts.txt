@@ -350,6 +350,6 @@
 127.0.0.1 8.referwhen.com
 127.0.0.1 9.referwhen.com
 
-sun2.creativecarrer.com
-tx2.creativecarrer.com
-ad.dist-ad.com
+127.0.0.1 sun2.creativecarrer.com
+127.0.0.1 tx2.creativecarrer.com
+127.0.0.1 ad.dist-ad.com
