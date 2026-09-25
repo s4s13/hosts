@@ -162,6 +162,7 @@
 127.0.0.1 console.adpon-affi.net
 127.0.0.1 content-loader.com
 127.0.0.1 creative.bluetrafficstream.com
+127.0.0.1 creative.greentrafsa.com
 127.0.0.1 creative.mayzaent.com
 127.0.0.1 creative.rmhfrtnd.com
 127.0.0.1 criteo.com
