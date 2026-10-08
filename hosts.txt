@@ -362,6 +362,17 @@
 127.0.0.1 8.exceptlone.com
 127.0.0.1 9.exceptlone.com
 
+127.0.0.1 0.reallywire.com
+127.0.0.1 1.reallywire.com
+127.0.0.1 2.reallywire.com
+127.0.0.1 3.reallywire.com
+127.0.0.1 4.reallywire.com
+127.0.0.1 5.reallywire.com
+127.0.0.1 6.reallywire.com
+127.0.0.1 7.reallywire.com
+127.0.0.1 8.reallywire.com
+127.0.0.1 9.reallywire.com
+
 127.0.0.1 sun2.creativecarrer.com
 127.0.0.1 tx2.creativecarrer.com
 127.0.0.1 ad.dist-ad.com
