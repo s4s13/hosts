@@ -387,3 +387,10 @@
 127.0.0.1 sun2.creativecarrer.com
 127.0.0.1 tx2.creativecarrer.com
 127.0.0.1 ad.dist-ad.com
+
+127.0.0.1 tardierrouges.com
+127.0.0.1 api.shinybirdwhispered.com
+127.0.0.1 renamereptiliantrance.com
+127.0.0.1 ic.aquinasforfars.cyou
+127.0.0.1 stepupslactoid.qpon
+127.0.0.1 pupjicaqwm.in
