@@ -395,6 +395,17 @@
 127.0.0.1 8.ownbricks.com
 127.0.0.1 9.ownbricks.com
 
+127.0.0.1 0.upbeatspring.com
+127.0.0.1 1.upbeatspring.com
+127.0.0.1 2.upbeatspring.com
+127.0.0.1 3.upbeatspring.com
+127.0.0.1 4.upbeatspring.com
+127.0.0.1 5.upbeatspring.com
+127.0.0.1 6.upbeatspring.com
+127.0.0.1 7.upbeatspring.com
+127.0.0.1 8.upbeatspring.com
+127.0.0.1 9.upbeatspring.com
+
 127.0.0.1 sun2.creativecarrer.com
 127.0.0.1 tx2.creativecarrer.com
 127.0.0.1 ad.dist-ad.com
